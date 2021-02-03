@@ -1,2 +1,1 @@
-# tindog-project
-tinder parody
+TinDog Starting Files
